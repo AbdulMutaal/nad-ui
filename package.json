@@ -18,6 +18,10 @@
     "eject": "react-scripts eject",
     "publish": "rm -rf dist && mkdir dist && babel src/components/TextEditor.js -d dist --copy-files"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AbdulMutaal/nad-ui.git"
+  },
   "eslintConfig": {
     "extends": [
       "react-app",
