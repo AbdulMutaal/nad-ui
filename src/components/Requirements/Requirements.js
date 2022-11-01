@@ -1,6 +1,6 @@
 import React from 'react';
 
-export const TextEditor = () => {
+export const Requirements = () => {
     return(
         <div>Hello</div>
     )
