@@ -10,6 +10,10 @@
     "build-storybook": "build-storybook",
     "build-lib": "rollup -c"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AbdulMutaal/nad-ui.git"
+  },
   "author": "Abdul Mutaal Azhar",
   "license": "MIT",
   "devDependencies": {
