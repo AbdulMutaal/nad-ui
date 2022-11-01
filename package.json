@@ -1,7 +1,7 @@
 {
   "name": "nad-ui",
   "version": "1.0.0",
-  "description": "A simple react component that accepts a list of password requirements and updates each as they are fulfilled",
+  "description": "A simple react ui package",
   "main": "dist/index.js",
   "module": "dist/index.es.js",
   "scripts": {
