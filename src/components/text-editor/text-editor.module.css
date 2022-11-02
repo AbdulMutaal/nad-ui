@@ -1,0 +1,14 @@
+.TextEditor{
+    display: flex;
+    flex-direction: column;
+}
+
+.TextArea{
+    /* width: 500px;
+    height: 200px; */
+    border: none;
+    /* padding: 10px; */
+    outline: none;
+    width: 100%;
+    font-size: calc(10px + 2vmin);
+}

@@ -1,0 +1,14 @@
+.Bold{
+    cursor: pointer;
+    border: 1px solid white;
+}
+
+.Bold:hover{
+    border: 1px solid gray;
+}
+
+.BoldClicked{
+    cursor: pointer;
+    border: 1px solid black;
+    background-color: lightgrey;
+}

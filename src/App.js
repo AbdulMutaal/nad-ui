@@ -1,6 +1,6 @@
 import logo from './logo.svg';
 import './App.css';
-import TextEditor from './components/text-editor';
+import TextEditor from './components/text-editor/text-editor';
 
 function App() {
   return (

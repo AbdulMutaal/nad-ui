@@ -1,0 +1,6 @@
+.Header{
+    background-color: white;
+    border-bottom: 1px solid gray;
+    display: flex;
+    padding: 10px;
+}
