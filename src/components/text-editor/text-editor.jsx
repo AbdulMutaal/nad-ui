@@ -39,8 +39,7 @@ export default function TextEditor() {
                     />
                     <div style={{display: "flex", flexDirection: "row"}}>
                         <div style={{backgroundColor: "white", border: "none", color: "black", width:"auto"}} dangerouslySetInnerHTML={{__html: inputText}} />
-                        <input
-                            type="text" 
+                        <textarea
                             className={Styles.TextArea} 
                             onChange={onInputChange} 
                             value=""/>

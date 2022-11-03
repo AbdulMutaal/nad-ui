@@ -1,8 +1,8 @@
 {
   "name": "nad-ui",
-  "version": "1.0.2",
+  "version": "1.0.5",
   "description": "Text editor",
-  "main": "text-editor.js",
+  "main": "text-editor.jsx",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
